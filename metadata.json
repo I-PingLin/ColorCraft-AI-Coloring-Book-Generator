@@ -1,0 +1,5 @@
+{
+  "name": "ColorCraft: AI Coloring Book Generator",
+  "description": "Create personalized coloring books for children. Enter a name and theme to generate 5 unique thick-line art pages and a custom cover, then download as a PDF.",
+  "requestFramePermissions": []
+}
